@@ -41,10 +41,10 @@ Image Bot is an AI-powered web application that allows users to generate images 
    ```bash
    npm start
    ```
-5. Open **http://localhost:3000/** in your browser.
 
-## 🌐 Live Demo
-🔗 [Live Demo](https://imagebot-frontend.vercel.app/)  
+## 🌐 Live Demo 
+<a href="https://imagebot-frontend.vercel.app/" target="_blank">🔗 Live Demo</a>
+
 
 ## 🤝 Contributing
 Contributions are welcome! Feel free to open an issue or submit a pull request.
