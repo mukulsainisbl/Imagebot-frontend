@@ -1,6 +1,6 @@
 # Image Bot - AI-Powered Image Generation
 
-![Image Bot](https://drive.google.com/file/d/1gB1vSjISt05dJ_o0rwWD66I8VJJSs6fL/view?usp=sharing)
+![Image Bot](https://drive.google.com/uc?export=download&id=1gB1vSjISt05dJ_o0rwWD66I8VJJSs6fL)
 
 ## 🚀 Overview
 Image Bot is an AI-powered web application that allows users to generate images using the **ClipDrop API**. This project provides a seamless UI for users to input prompts and receive AI-generated images instantly. It showcases modern frontend development techniques combined with API integration.
@@ -20,8 +20,8 @@ Image Bot is an AI-powered web application that allows users to generate images 
 ✅ **Responsive Design** - Fully optimized for mobile and desktop.  
 
 ## 📸 Screenshots
-![ScreenShot1](https://drive.google.com/file/d/1DvN0nRerbYQfj79JmYsbKjrm3nI79GnM/view?usp=sharing)  
-![ScreenShot2]()  
+![ScreenShot1](https://drive.google.com/uc?export=download&id=1DvN0nRerbYQfj79JmYsbKjrm3nI79GnM)  
+![ScreenShot2](https://drive.google.com/uc?export=download&id=1CQWiszcXpVK_pdX1JVSRDLpPy7eX-s0M)  
 
 ## 🔧 Installation & Setup
 1. Clone the repository:
