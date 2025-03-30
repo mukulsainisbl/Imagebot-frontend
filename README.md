@@ -44,7 +44,7 @@ Image Bot is an AI-powered web application that allows users to generate images 
 5. Open **http://localhost:3000/** in your browser.
 
 ## 🌐 Live Demo
-🔗 [Live Demo](https://image-bot.vercel.app/)  
+🔗 [Live Demo](https://imagebot-frontend.vercel.app/)  
 
 ## 🤝 Contributing
 Contributions are welcome! Feel free to open an issue or submit a pull request.
